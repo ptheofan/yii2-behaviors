@@ -1,0 +1,22 @@
+{
+    "name": "ptheofan/yii2-behaviors",
+    "description": "A collection of commonly used behaviors classes.",
+    "keywords": ["yii2", "behaviors"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/ptheofan/yii2-behaviors"
+    },
+    "authors": [
+        {
+            "name": "Paris Theofanidis",
+            "email": "ptheofan@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2"
+    },
+    "autoload": {
+        "psr-4": { "ptheofan\\behaviors\\": "" }
+    }
+}
